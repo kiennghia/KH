@@ -1,0 +1,21 @@
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.dll
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.pdb
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1.xml
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\AppManifest.xaml
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\My Project\WMAppManifest.xml
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\Bin\Debug\PhoneApp1_Debug_AnyCPU.xap
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\App.g.i.vb
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\MainPage.g.i.vb
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.g.resources
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.AppResources.resources
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.vbproj.GenerateResource.Cache
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.dll
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.xml
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\PhoneApp1.pdb
+c:\users\vietd\documents\visual studio 2013\Projects\PhoneApp1\PhoneApp1\obj\Debug\XapCacheFile.xml
